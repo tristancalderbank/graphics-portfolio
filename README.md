@@ -23,12 +23,6 @@ Ray tracer written in JavaScript in a couple hours
 
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_raytracer.png" width="800">
 
-### Project: TinyEngine
-
-Rendering engine written in C++ using OpenGL 
-
-https://github.com/tristancalderbank/TinyEngine
-
 ### Project: TinyRenderer
 
 CPU based rasterizing 3D renderer written in C++
@@ -55,3 +49,9 @@ SSAO (inverted)
 Depth map seen by shadow camera
 
 <img src="https://github.com/tristancalderbank/TinyRenderer/blob/master/TinyRenderer/images/png/shadow_depth_buffer.png" width="800">
+
+### Project: TinyEngine
+
+Rendering engine written in C++ using OpenGL 
+
+https://github.com/tristancalderbank/TinyEngine
