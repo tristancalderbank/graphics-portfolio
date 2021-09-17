@@ -31,6 +31,7 @@ https://github.com/tristancalderbank/TinyRenderer
 
 Features
 * Pure C++, no dependencies/graphics APIs
+* Phong lighting
 * Backface culling
 * Z-buffering
 * Perspective camera
