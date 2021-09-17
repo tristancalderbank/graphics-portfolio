@@ -35,7 +35,7 @@ Features
 * Backface culling
 * Z-buffering
 * Perspective camera
-* Lighting support for diffuse, normal, and specular textures
+* Phong lighting with support for diffuse, normal, and specular textures
 * Shadow mapping
 * Screen-space ambient occlusion (SSAO)
 
