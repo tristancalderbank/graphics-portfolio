@@ -19,6 +19,7 @@ CPU based rasterizing 3D renderer written in C++
 https://github.com/tristancalderbank/TinyRenderer
 
 Features
+* Pure C++, no dependencies/graphics APIs
 * Backface culling
 * Z-buffering
 * Perspective camera
