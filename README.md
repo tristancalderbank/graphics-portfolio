@@ -58,7 +58,7 @@ Features
 * Supports loading glTF 2.0 models
 * Skyboxes rendered with cubemaps
 * Separate post-processing render step with tone-mapping/gamma correction
-* 
+* Dear ImGui for debugging/tweaking parameters
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_backpack.png" width="800">
 
 https://github.com/tristancalderbank/TinyEngine
