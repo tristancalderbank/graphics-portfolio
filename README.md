@@ -50,15 +50,19 @@ Depth map seen by shadow camera
 
 <img src="https://github.com/tristancalderbank/TinyRenderer/blob/master/TinyRenderer/images/png/shadow_depth_buffer.png" width="800">
 
-### Project: TinyEngine
+### Project: Real Time OpenGL renderer in C++
 
 Rendering engine written in C++ using OpenGL 
+
+https://github.com/tristancalderbank/TinyEngine
 
 Features
 * Supports loading glTF 2.0 models
 * Skyboxes rendered with cubemaps
+* [WIP] PBR-metallic workflow 
 * Separate post-processing render step with tone-mapping/gamma correction
 * Dear ImGui for debugging/tweaking parameters
+
+
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_backpack.png" width="800">
 
-https://github.com/tristancalderbank/TinyEngine
