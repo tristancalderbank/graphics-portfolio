@@ -54,4 +54,8 @@ Depth map seen by shadow camera
 
 Rendering engine written in C++ using OpenGL 
 
+Features
+* Supports loading glTF 2.0 models
+* Separate post-processing render step with tone-mapping/gamma correction
+
 https://github.com/tristancalderbank/TinyEngine
