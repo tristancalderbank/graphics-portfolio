@@ -23,7 +23,7 @@ Ray tracer written in JavaScript in a couple hours
 
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_raytracer.png" width="800">
 
-### Project: TinyRenderer
+### Project: CPU Renderer in C++
 
 CPU based rasterizing 3D renderer written in C++
 
