@@ -61,7 +61,8 @@ Features
 * Skyboxes rendered with cubemaps
 * [WIP] PBR-metallic workflow (metallic, albedo, roughness, normal, ao textures)
 * Separate post-processing render step with tone-mapping/gamma correction
-* Dear ImGui for debugging/tweaking parameters
+* ImGui for debugging/tweaking parameters
+* Free flight camera (WASD + mouse)
 
 
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_backpack.png" width="800">
