@@ -60,7 +60,7 @@ https://github.com/tristancalderbank/TinyEngine
 Features
 * Supports loading glTF 2.0 models
 * Skyboxes rendered with cubemaps
-* [WIP] PBR-metallic workflow (metallic, albedo, roughness, normal, ao textures)
+* [WIP] PBR-metallic workflow (metallic, albedo, roughness, normal, textures)
 * Separate post-processing render step with tone-mapping/gamma correction
 * ImGui for debugging/tweaking parameters
 * Free flight camera (WASD + mouse)
