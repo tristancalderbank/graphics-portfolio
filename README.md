@@ -37,7 +37,7 @@ Features
 * Perspective camera
 * Phong lighting with support for diffuse, normal, and specular textures
 * Shadow mapping
-* Screen-space ambient occlusion (SSAO)
+* Screen-space ambient occlusion (SSAO) using depth buffer + a raymarching algorithm
 
 Final render
 
