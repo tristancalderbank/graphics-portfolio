@@ -34,7 +34,6 @@ https://github.com/tristancalderbank/TinyRenderer
 Features
 * Pure C++, no dependencies/graphics APIs
 * Rasterization using bounding boxes + barycentric coordinates
-* Phong lighting
 * Backface culling
 * Z-buffering
 * Perspective camera
