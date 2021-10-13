@@ -6,7 +6,7 @@ List of graphics projects/experience
 * MATH 221 Matrix Algebra
 * MATH 264 Vector Calculus
 
-### CPSC 314: Computer Graphics
+### WebGL Renders
 
 Features
 * Rendered with WebGL using ThreeJS + JavaScript
