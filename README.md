@@ -6,10 +6,7 @@ List of graphics projects/experience
 * MATH 221 Matrix Algebra
 * MATH 264 Vector Calculus
 
-### WebGL/JavaScript
-
-Features
-* Rendered with WebGL using ThreeJS + JavaScript
+### WebGL + JavaScript + ThreeJS
 
 Environment mapping + shadow mapping
 
