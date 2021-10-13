@@ -8,7 +8,12 @@ List of graphics projects/experience
 
 ### WebGL + JavaScript + ThreeJS
 
-Environment mapping, shadow mapping, textures including normal map
+Features
+* Environment mapping
+* Shadow mapping
+* Diffuse + bumpmap textures
+* Phong lighting
+* Skybox
 
 <img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_env_shadow.png" width="800">
 
