@@ -24,29 +24,6 @@ Features
 * ImGui for debugging/tweaking parameters
 * Free flight camera (WASD + mouse)
 
-glTF 2.0 model loaded with PBR textures
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_pbr.png" width="800">
-
-### WebGL + JavaScript + ThreeJS
-
-Features
-* Environment mapping
-* Shadow mapping
-* Diffuse + bumpmap textures
-* Phong lighting
-* Skybox
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_env_shadow.png" width="800">
-
-Toon shading (quantized colors)
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_toon.png" width="800">
-
-Ray tracer written in JavaScript in a couple hours
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_raytracer.png" width="800">
-
 ### Project: CPU Renderer in C++
 
 CPU based rasterizing 3D renderer written in C++
@@ -74,3 +51,22 @@ SSAO (inverted)
 Depth map seen by shadow camera
 
 <img src="https://github.com/tristancalderbank/TinyRenderer/blob/master/TinyRenderer/images/png/shadow_depth_buffer.png" width="800">
+
+### WebGL + JavaScript + ThreeJS
+
+Features
+* Environment mapping
+* Shadow mapping
+* Diffuse + bumpmap textures
+* Phong lighting
+* Skybox
+
+<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_env_shadow.png" width="800">
+
+Toon shading (quantized colors)
+
+<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_toon.png" width="800">
+
+Ray tracer written in JavaScript in a couple hours
+
+<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/314_raytracer.png" width="800">
