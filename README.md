@@ -6,6 +6,28 @@ List of graphics projects/experience
 * MATH 221 Matrix Algebra
 * MATH 264 Vector Calculus
 
+### Project: Real Time OpenGL PBR renderer in C++
+
+Rendering engine written in C++ using OpenGL 
+
+https://github.com/tristancalderbank/TinyEngine
+
+<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
+
+Features
+* PBR lighting with indirect image-based lighting (IBL)
+* Cook-Torrance BRDF (based on Disney/Unreal 4 formulation)
+* glTF 2.0 PBR model loading support
+* Texture support: albedo, metallic, roughness, tangent-space normal, ao, emissive
+* HDRI skyboxes
+* Separate post-processing render step with tonemapping/gamma correction
+* ImGui for debugging/tweaking parameters
+* Free flight camera (WASD + mouse)
+
+glTF 2.0 model loaded with PBR textures
+
+<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_pbr.png" width="800">
+
 ### WebGL + JavaScript + ThreeJS
 
 Features
@@ -52,26 +74,3 @@ SSAO (inverted)
 Depth map seen by shadow camera
 
 <img src="https://github.com/tristancalderbank/TinyRenderer/blob/master/TinyRenderer/images/png/shadow_depth_buffer.png" width="800">
-
-### Project: Real Time OpenGL renderer in C++
-
-Rendering engine written in C++ using OpenGL 
-
-https://github.com/tristancalderbank/TinyEngine
-
-Features
-* Supports loading glTF 2.0 models
-* Skyboxes rendered with cubemaps
-* [WIP] PBR-metallic workflow (metallic, albedo, roughness, normal, textures)
-* Separate post-processing render step with tone-mapping/gamma correction
-* ImGui for debugging/tweaking parameters
-* Free flight camera (WASD + mouse)
-
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_backpack.png" width="800">
-
-glTF 2.0 model loaded with PBR textures
-
-<img src="https://github.com/tristancalderbank/graphics-portfolio/blob/main/engine_pbr.png" width="800">
-
-
