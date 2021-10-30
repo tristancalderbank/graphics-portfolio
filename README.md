@@ -10,7 +10,7 @@ List of graphics projects/experience
 
 Rendering engine written in C++ using OpenGL 
 
-https://github.com/tristancalderbank/TinyEngine
+https://github.com/tristancalderbank/NanoEngine
 
 <img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
 
