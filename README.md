@@ -16,7 +16,7 @@ https://github.com/tristancalderbank/NanoEngine
 
 Features
 * PBR lighting with indirect image-based lighting (IBL)
-* Cook-Torrance BRDF (based on Disney/Unreal 4 formulation)
+* Cook-Torrance BRDF
 * glTF 2.0 PBR model loading support
 * Texture support: albedo, metallic, roughness, tangent-space normal, ao, emissive
 * HDRI skyboxes
