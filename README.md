@@ -23,6 +23,7 @@ Features
 * Separate post-processing render step with tonemapping/gamma correction
 * ImGui for debugging/tweaking parameters
 * Free flight camera (WASD + mouse)
+* Cross platform: Windows/MacOS
 
 ### Project: CPU Renderer in C++
 
