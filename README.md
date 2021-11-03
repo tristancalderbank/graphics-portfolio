@@ -12,13 +12,6 @@ Rendering engine written in C++ using OpenGL
 
 https://github.com/tristancalderbank/NanoEngine
 
-Real-time video: https://www.youtube.com/watch?v=UCdlUd6DJs4
-
-<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
-
-<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/engine_pbr_spheres.png">
-
-
 Features
 * PBR lighting with indirect image-based lighting (IBL)
 * Cook-Torrance BRDF
@@ -29,6 +22,12 @@ Features
 * ImGui for debugging/tweaking parameters
 * Free flight camera (WASD + mouse)
 * Cross platform: Windows/MacOS
+
+Real-time video: https://www.youtube.com/watch?v=UCdlUd6DJs4
+
+<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
+
+<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/engine_pbr_spheres.png">
 
 ### Project: CPU Renderer in C++
 
