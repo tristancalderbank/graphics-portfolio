@@ -33,7 +33,7 @@ Real-time video: https://www.youtube.com/watch?v=UCdlUd6DJs4
 
 CPU based rasterizing 3D renderer written in C++
 
-https://github.com/tristancalderbank/TinyRenderer
+https://github.com/tristancalderbank/CPURenderer
 
 Features
 * Pure C++, no dependencies/graphics APIs
