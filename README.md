@@ -6,7 +6,7 @@ List of graphics projects/experience
 * MATH 221 Matrix Algebra
 * MATH 264 Vector Calculus
 
-### Project: Real Time OpenGL PBR renderer in C++
+### Project: Real Time Physically-Based Renderer in C++
 
 Rendering engine written in C++ using OpenGL 
 
