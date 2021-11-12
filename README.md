@@ -12,22 +12,29 @@ Rendering engine written in C++ using OpenGL
 
 https://github.com/tristancalderbank/NanoEngine
 
-Features
+Real-time video: https://www.youtube.com/watch?v=UCdlUd6DJs4
+
+<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
+
+**Features**
 * PBR lighting with indirect image-based lighting (IBL)
 * Cook-Torrance BRDF
 * glTF 2.0 PBR model loading support
 * Texture support: albedo, metallic, roughness, tangent-space normal, ao, emissive
+* Bloom (Gaussian blur, blended from 6 mip levels for maximum spread)
 * HDRI skyboxes
 * Separate post-processing render step with tonemapping/gamma correction
 * ImGui for debugging/tweaking parameters
 * Free flight camera (WASD + mouse)
 * Cross platform: Windows/MacOS
 
-Real-time video: https://www.youtube.com/watch?v=UCdlUd6DJs4
-
-<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/pbr_first_implementation.png">
+Metallic vs. Roughness
 
 <img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/metallicroughnesslabelled.png">
+
+Bloom (Gaussian blur, blended from 6 mip levels for maximum spread)
+
+<img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/bloom.png">
 
 ### Project: CPU Renderer in C++
 
