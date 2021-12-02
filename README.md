@@ -6,7 +6,7 @@ List of graphics projects/experience
 * MATH 221 Matrix Algebra
 * MATH 264 Vector Calculus
 
-### Project: Real Time Physically-Based Renderer in C++
+### Personal Project: Real Time Physically-Based Renderer in C++
 
 Rendering engine written in C++ using OpenGL 
 
@@ -36,7 +36,7 @@ Bloom (Gaussian blur, blended from 6 mip levels for wide spread)
 
 <img src="https://github.com/tristancalderbank/NanoEngine/blob/master/screenshots/bloom.png">
 
-### Project: CPU Renderer in C++
+### Personal Project: CPU Renderer in C++
 
 CPU based rasterizing 3D renderer written in C++
 
