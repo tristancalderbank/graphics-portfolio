@@ -64,7 +64,7 @@ Depth map seen by shadow camera
 
 <img src="https://github.com/tristancalderbank/TinyRenderer/blob/master/TinyRenderer/images/png/shadow_depth_buffer.png" width="800">
 
-### WebGL + JavaScript + ThreeJS
+### CPSC 314 Computer Graphics: WebGL + JavaScript + ThreeJS
 
 Features
 * Environment mapping
